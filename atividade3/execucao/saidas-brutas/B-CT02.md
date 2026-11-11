@@ -4,9 +4,9 @@
 | :--- | :--- |
 | Caso | CT02 |
 | Versão | B |
-| Data e horário exibido | [PREENCHER] |
+| Data e horário exibido | [PREENCHER: horário não aparece na captura] |
 | Captura | `capturas/B-CT02.png` |
-| Observações | [PREENCHER: erro, resposta vazia ou truncada, citações exibidas, ou "nenhuma"] |
+| Observações | Transcrita da captura de tela (o negrito não foi preservado). Caso identificado pelo conteúdo, porque a captura mostra só o início da mensagem enviada. "Processed" (8 s), 1 citação, cerca de 37,6 mil tokens. |
 
 ## Mensagem enviada
 
@@ -31,5 +31,7 @@ Pergunta: Em quanto tempo o reembolso é feito depois que a devolução é aprov
 Colar abaixo a resposta completa do Cherry Studio, sem editar, no lugar da linha de marcação. Se a resposta veio vazia, apagar a marcação e deixar o bloco vazio.
 
 ````text
-[COLAR A RESPOSTA LITERAL AQUI]
+Depois que a devolução é aprovada, o valor é reembolsado em até 10 (dez) dias úteis, na mesma forma de pagamento usada na compra [1].
+
+Fonte: `DOC-01-politica-reembolso-v2.md` (Versão 2.0, vigente desde 01/03/2026) [1].
 ````

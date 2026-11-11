@@ -4,9 +4,9 @@
 | :--- | :--- |
 | Caso | CT04 |
 | Versão | B |
-| Data e horário exibido | [PREENCHER] |
+| Data e horário exibido | [PREENCHER: horário não aparece na captura] |
 | Captura | `capturas/B-CT04.png` |
-| Observações | [PREENCHER: erro, resposta vazia ou truncada, citações exibidas, ou "nenhuma"] |
+| Observações | Transcrita da captura de tela (o negrito não foi preservado). Caso identificado pelo conteúdo, porque a captura mostra só o início da mensagem enviada. "Processed" (10 s), 1 citação, cerca de 37,1 mil tokens. |
 
 ## Mensagem enviada
 
@@ -31,5 +31,7 @@ Pergunta: Quem paga o frete da devolução?
 Colar abaixo a resposta completa do Cherry Studio, sem editar, no lugar da linha de marcação. Se a resposta veio vazia, apagar a marcação e deixar o bloco vazio.
 
 ````text
-[COLAR A RESPOSTA LITERAL AQUI]
+O frete da devolução (por arrependimento ou defeito) é pago pela empresa Cereja Eletro [1].
+
+Fonte: `DOC-01-politica-reembolso-v2.md` (Política de Reembolso e Devolução, Versão 2.0, vigente desde 01/03/2026).
 ````

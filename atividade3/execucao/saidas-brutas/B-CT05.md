@@ -4,9 +4,9 @@
 | :--- | :--- |
 | Caso | CT05 |
 | Versão | B |
-| Data e horário exibido | [PREENCHER] |
+| Data e horário exibido | [PREENCHER: horário não aparece na captura] |
 | Captura | `capturas/B-CT05.png` |
-| Observações | [PREENCHER: erro, resposta vazia ou truncada, citações exibidas, ou "nenhuma"] |
+| Observações | Transcrita da captura de tela (o negrito não foi preservado). Caso identificado pelo conteúdo, porque a captura mostra só o início da mensagem enviada. Sem "Processed" e sem citação na tela, cerca de 6,8 mil tokens. |
 
 ## Mensagem enviada
 
@@ -31,5 +31,5 @@ Pergunta: Qual é o telefone da central de atendimento?
 Colar abaixo a resposta completa do Cherry Studio, sem editar, no lugar da linha de marcação. Se a resposta veio vazia, apagar a marcação e deixar o bloco vazio.
 
 ````text
-[COLAR A RESPOSTA LITERAL AQUI]
+Não encontrei essa informação nos documentos.
 ````

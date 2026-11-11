@@ -14,4 +14,4 @@ Os casos foram enviados um após o outro na mesma conversa, e não em conversas 
 | CT04 | 11/11 18:07 | Sim ("Processed", 1 citação) | O frete da devolução (seja por arrependimento ou por defeito) é pago pela Cereja Eletro [1]. |
 | CT05 | não exibido | Sim ("Processed", 2 citações) | Nos documentos disponíveis da empresa, não há menção a um número de telefone para atendimento. O contato de suporte e para abertura de chamados é feito por e-mail através do endereço suporte@cereja-ficticia.example [1][2]. |
 
-A rodada 2 da versão A, feita em conversas novas a partir de 18h11, é a rodada válida e está em [`saidas-brutas/`](saidas-brutas/).
+O CT01 foi a primeira mensagem dessa conversa e não tinha contexto anterior, por isso foi mantido como a saída válida `A-CT01`. Os casos CT02 a CT05 da rodada 1 foram descartados e refeitos em conversas novas a partir de 18h11 (rodada 2), junto com o CT06. As saídas válidas estão em [`saidas-brutas/`](saidas-brutas/).
