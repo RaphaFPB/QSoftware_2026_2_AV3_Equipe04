@@ -23,4 +23,8 @@ As capturas ficam em [`capturas/`](capturas/), com o mesmo nome da saída (por e
 
 ## Registro
 
-[PREENCHER: data e hora das execuções, se a configuração foi a mesma nas 12, saídas vazias ou com erro, e desvios do plano.]
+- **Data e horários:** 11/11/2026. A primeira saída válida (A-CT01) foi às 18h06, a rodada válida da versão A começou às 18h11 e a primeira saída da versão B foi às 18h17. Os horários de B-CT02 a B-CT06 não aparecem nas capturas.
+- **Configuração:** a mesma nas 12. Cherry Studio 2.0.13, Gemini Flash-Lite Latest, assistente padrão sem prompt de sistema [CONFERIR com o Vinícius] e com parâmetros padrão, base `AV3-Cherry` (DOC-01, DOC-03 e DOC-04, embedding `gemini-embedding-001`) vinculada ao assistente. Cada execução foi feita em um tópico novo.
+- **Saídas vazias ou com erro:** nenhuma.
+- **Uso da base:** em A-CT02, A-CT04, A-CT06 e B-CT05 a tela não mostra "Processed" nem citações, e o consumo de tokens foi bem menor (de 3,1 mil a 6,8 mil, contra 10,8 mil a 37,6 mil nas demais). A base estava vinculada, e o modelo respondeu sem consultar os documentos. As respostas de A-CT02, A-CT04 e A-CT06 trazem regras gerais do Código de Defesa do Consumidor, e não a política da Cereja Eletro.
+- **Desvios do plano:** a primeira tentativa da versão A foi feita em uma única conversa. O CT01, que foi a primeira mensagem dessa conversa e não tinha contexto anterior, foi mantido. Os demais casos foram descartados e refeitos em tópicos novos (ver [`tentativas-descartadas.md`](tentativas-descartadas.md)). Parte das respostas foi transcrita das capturas de tela, e não copiada pelo botão do aplicativo, o que está indicado em cada arquivo.

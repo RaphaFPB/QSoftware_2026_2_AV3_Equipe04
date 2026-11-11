@@ -20,7 +20,9 @@ Cada linha dos CSVs tem o ID anônimo, as três notas (0 a 2), a falha crítica 
 
 ## Cegamento
 
-A planilha entregue às pessoas avaliadoras mostra só o ID, a pergunta, a referência e a resposta, sem a versão, sem a ordem e sem o F1. [PREENCHER: como o cegamento foi mantido, o que ficou visível e as limitações.]
+A planilha entregue às pessoas avaliadoras mostra só o ID, a pergunta, a referência e a resposta, sem a versão, sem a ordem e sem o F1. As planilhas `planilha-R1.csv` (12 saídas) e `planilha-R2.csv` (CT01 e CT05 em A e B) foram geradas por `metricas/preparar_avaliacao.py`, com IDs `S01` a `S12` sorteados. A chave que liga cada ID ao caso e à versão ficou fora do repositório até o fim das avaliações.
+
+Limitações do cegamento: o estilo das respostas denuncia a versão, porque as saídas de B costumam terminar com uma linha "Fonte:" pedida pelo prompt estruturado. As saídas brutas estão no repositório com a versão no nome do arquivo, então quem avaliou foi orientado a usar só a planilha. [PREENCHER: confirmação de R1 e R2 de que avaliaram só pela planilha, sem ver o F1 nem as notas da outra pessoa.]
 
 ## Resultados
 

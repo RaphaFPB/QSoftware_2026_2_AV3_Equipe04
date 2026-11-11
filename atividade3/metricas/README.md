@@ -41,4 +41,9 @@ Normalização Unicode NFC, `casefold`, tokens de palavras (`\w+`) e interseçã
 
 ## Resultados
 
-[PREENCHER: F1 médio e mediano de A e de B, e quantos sinais automáticos positivos em cada versão.]
+| Versão | F1 médio | F1 mediano | Sinais automáticos positivos |
+| :--- | ---: | ---: | ---: |
+| A | 0,249 | 0,229 | 1/6 (CT03) |
+| B | 0,300 | 0,306 | 0/6 |
+
+Valores por saída em [`../resultados/f1-lexical.csv`](../resultados/f1-lexical.csv). A revocação foi alta na maioria das saídas (até 1,0), mas a precisão foi baixa, porque as respostas são bem mais longas que as referências curtas. Por isso quase nenhuma saída chega a `tau = 0,5`.
