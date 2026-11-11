@@ -4,7 +4,7 @@ Registro curto da configuração da versão A (baseline) e dos limites de reprod
 
 | Campo | Registro |
 | :--- | :--- |
-| Código e commit | Cherry Studio 2.0.13. [CONFERIR: commit `6e3af1beac02cdc53dd2aba382cb6af7475dc669`, registrado pela equipe para a 2.0.13] |
+| Código e commit | Cherry Studio 2.0.13 (tag `v2.0.13` do repositório CherryHQ/cherry-studio, commit `6e3af1beac02cdc53dd2aba382cb6af7475dc669`), com atualização automática desligada. Captura em [`../../execucao/capturas/configuracao-versao.png`](../../execucao/capturas/configuracao-versao.png). |
 | Mudança em relação à versão anterior | Baseline. Prompt direto: só a pergunta do caso. |
 | Prompt | [`prompt.md`](prompt.md) |
 | Modelo e revisão | Gemini Flash-Lite Latest (alias `latest`, a revisão não é congelável) |

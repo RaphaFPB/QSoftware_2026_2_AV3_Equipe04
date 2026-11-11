@@ -4,7 +4,7 @@ Registro curto da configuração da versão B e dos limites de reprodução. A t
 
 | Campo | Registro |
 | :--- | :--- |
-| Código e commit | Cherry Studio 2.0.13, o mesmo da versão A. [CONFERIR: commit `6e3af1beac02cdc53dd2aba382cb6af7475dc669`, registrado pela equipe para a 2.0.13] |
+| Código e commit | Cherry Studio 2.0.13 (tag `v2.0.13` do repositório CherryHQ/cherry-studio, commit `6e3af1beac02cdc53dd2aba382cb6af7475dc669`), com atualização automática desligada. Captura em [`../../execucao/capturas/configuracao-versao.png`](../../execucao/capturas/configuracao-versao.png). O mesmo da versão A. |
 | Mudança em relação à versão anterior | Somente o prompt: de "só a pergunta" (A) para o prompt estruturado com regras de fonte e de abstenção (B). |
 | Prompt | [`prompt.md`](prompt.md) |
 | Modelo e revisão | Gemini Flash-Lite Latest (alias `latest`, a revisão não é congelável) |

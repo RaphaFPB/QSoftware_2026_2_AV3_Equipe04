@@ -5,7 +5,7 @@
 | Caso | CT04 |
 | Versão | A |
 | Data e horário exibido | 11/11 18:12 |
-| Captura | Sem captura. O texto foi copiado da tela e enviado pela equipe. |
+| Captura | Sem captura. A resposta era longa demais para caber em uma captura de tela, e o texto foi copiado da tela e enviado pela equipe. |
 | Observações | Texto copiado da tela pela equipe. Sem citação na tela, cerca de 3,4 mil tokens. A base estava vinculada ao assistente (conferido depois da execução), e o modelo respondeu sem usar os documentos. |
 
 ## Mensagem enviada
