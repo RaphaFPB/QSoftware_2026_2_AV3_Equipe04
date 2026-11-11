@@ -4,9 +4,9 @@
 | :--- | :--- |
 | Caso | CT06 |
 | Versão | B |
-| Data e horário exibido | [PREENCHER] |
+| Data e horário exibido | [PREENCHER: horário não aparece na captura] |
 | Captura | `capturas/B-CT06.png` |
-| Observações | [PREENCHER: erro, resposta vazia ou truncada, citações exibidas, ou "nenhuma"] |
+| Observações | Transcrita da captura de tela (o negrito não foi preservado). Caso identificado pelo conteúdo, porque a captura mostra só o início da mensagem enviada. "Processed" (8 s), 1 citação, cerca de 30,9 mil tokens. |
 
 ## Mensagem enviada
 
@@ -31,5 +31,9 @@ Pergunta: Até quando posso desistir de uma compra que fiz?
 Colar abaixo a resposta completa do Cherry Studio, sem editar, no lugar da linha de marcação. Se a resposta veio vazia, apagar a marcação e deixar o bloco vazio.
 
 ````text
-[COLAR A RESPOSTA LITERAL AQUI]
+Você pode desistir de uma compra em até 7 (sete) dias corridos a partir do recebimento do produto, sem precisar justificar [1]. Esta regra consta na Política de Reembolso e Devolução (Versão 2.0, vigente desde 01/03/2026) [1]; os documentos recuperados não apresentam versões anteriores divergentes.
+
+Fontes:
+
+- `DOC-01-politica-reembolso-v2.md` [1]
 ````
