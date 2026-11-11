@@ -5,7 +5,7 @@
 | Caso | CT06 |
 | Versão | A |
 | Data e horário exibido | 11/11 18:15 |
-| Captura | `capturas/A-CT06.png` |
+| Captura | Sem captura. O texto foi copiado da tela e enviado pela equipe. |
 | Observações | Texto copiado da tela pela equipe. Sem citação na tela, cerca de 3,2 mil tokens. A base estava vinculada ao assistente, e o modelo respondeu sem usar os documentos. |
 
 ## Mensagem enviada

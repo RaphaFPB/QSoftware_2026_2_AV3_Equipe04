@@ -4,6 +4,8 @@ Execuções feitas em 11/11/2026 que não entram nas 12 saídas porque não segu
 
 ## Rodada 1 da versão A (descartada: conversa única)
 
+Capturas em [`capturas/tentativas-descartadas/`](capturas/tentativas-descartadas/). A captura do CT01 é a mesma da saída válida `A-CT01` e mostra, abaixo da resposta, a pergunta do CT02 enviada na mesma conversa.
+
 Os casos foram enviados um após o outro na mesma conversa, e não em conversas novas. Assim cada resposta tinha no contexto as perguntas e respostas anteriores. Horários exibidos entre 18h06 e 18h07.
 
 | Caso | Horário exibido | Base usada (indício na tela) | Resposta (transcrita da captura) |
