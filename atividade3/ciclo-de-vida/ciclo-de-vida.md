@@ -38,8 +38,8 @@ Para conferir: `git show av3-a` e `git show av3-b`. Nenhuma tag é movida ou reu
 
 | Tag | Hash do commit |
 | :--- | :--- |
-| `av3-a` | [PREENCHER: hash] |
-| `av3-b` | [PREENCHER: hash] |
+| `av3-a` | `94528fe7c9cf5c2789a5b7d6191e60e9568a2a26` |
+| `av3-b` | `1b5873d6d95a043efb70dedc06ac74f4bfe31f4e` |
 
 ## Reprodução e reversão
 

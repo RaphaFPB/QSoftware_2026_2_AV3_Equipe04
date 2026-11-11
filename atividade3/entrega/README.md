@@ -17,7 +17,7 @@ Checklist dos artefatos e ordem de trabalho. Marcar um item só quando o arquivo
 - [x] Seis casos e referências: `casos.md` e `casos.csv`
 - [x] Rubrica: `rubrica.md`
 - [x] Versões A e B com prompt e manifesto: `versoes/`
-- [ ] Tags `av3-a` e `av3-b` publicadas no repositório remoto
+- [x] Tags `av3-a` e `av3-b` publicadas no repositório remoto
 - [ ] 12 saídas brutas e capturas: `execucao/`
 - [ ] F1 das 12 saídas: `resultados/f1-lexical.csv`
 - [ ] 12 anotações de R1 e 4 de R2, com consenso quando preciso: `avaliacao/`
