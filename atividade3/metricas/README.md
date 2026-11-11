@@ -13,6 +13,24 @@ python atividade3/metricas/f1_lexical.py entrada.csv --tau 0.5 --saida resultado
 
 A saída tem as colunas `caso,versao,precisao,revocacao,F1,sinal_auto`. O sinal automático vale 1 quando `F1 >= 0,5`. Salvar o resultado em [`../resultados/f1-lexical.csv`](../resultados/f1-lexical.csv).
 
+## Atalho com os scripts da equipe
+
+Depois que as 12 saídas estiverem preenchidas em `execucao/saidas-brutas/`, rodar da raiz do repositório:
+
+```text
+python atividade3/metricas/preparar_avaliacao.py
+```
+
+O script confere as 12 saídas (recusa se faltar alguma resposta), monta `resultados/entrada-f1.csv`, calcula `resultados/f1-lexical.csv` com o `f1_lexical.py` e `tau = 0,5`, e gera as planilhas cegas `avaliacao/planilha-R1.csv` (12 saídas) e `avaliacao/planilha-R2.csv` (CT01 e CT05 em A e B). Os IDs são sorteados e gravados em `avaliacao/chave-anonimizacao.csv`, que está no `.gitignore` e não é publicada antes do fim das avaliações. A chave não é sorteada de novo se já existir.
+
+Depois que R1 e R2 preencherem `avaliacao/r1.csv` e `avaliacao/r2.csv` (e, se divergirem, `avaliacao/consenso.csv` com `id_anonimo,correcao,relevancia,suporte,falha_critica,justificativa`), rodar:
+
+```text
+python atividade3/metricas/consolidar.py
+```
+
+Ele gera `resultados/tabela-consolidada.csv`, `resultados/resumo-automatico.md` (médias, aprovação x/6, concordância x/12, R1 e R2 x/4 e lista de divergências) e `resultados/grafico-resultados.png`. Para o PNG é preciso `pip install matplotlib`, e sem ele sai um SVG simples. A aplicação do critério de avanço no resumo é só a conta. A decisão é registrada pela equipe em `decisao/decisao.md`.
+
 ## Definição
 
 Normalização Unicode NFC, `casefold`, tokens de palavras (`\w+`) e interseção de multiconjuntos. Precisão = tokens em comum ÷ tokens da resposta. Revocação = tokens em comum ÷ tokens da referência. F1 = 2 × P × R ÷ (P + R), e F1 = 0 quando P + R = 0. Uma resposta vazia tem F1 = 0 e entra na conta.
