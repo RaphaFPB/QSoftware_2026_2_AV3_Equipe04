@@ -1,0 +1,7 @@
+caso,tipo,pergunta,referencia,fonte
+CT01,funcional,Qual é o prazo para desistir da compra?,Até 7 dias corridos depois do recebimento do produto,"DOC-01, seção 1, Direito de arrependimento"
+CT02,funcional,Em quanto tempo o reembolso é feito depois que a devolução é aprovada?,O tempo para reembolso é de até 10 dias úteis,"DOC-01, seção 2, Prazo do reembolso"
+CT03,funcional,Quanto tempo de garantia total têm os eletrodomésticos de linha branca?,Os eletrodomésticos de linha branca têm 12 meses de garantia,"DOC-04, Garantia legal e contratual"
+CT04,funcional,Quem paga o frete da devolução?,O responsável pelo pagamento do frete da devolução é a Cereja Eletro,"DOC-01, seção 4, Frete de devolução"
+CT05,sem evidência suficiente,Qual é o telefone da central de atendimento?,Os documentos não informam o telefone da central de atendimento,"Nenhum dos documentos traz telefone, só e-mail (DOC-01 e DOC-04)"
+CT06,variação de CT01,Até quando posso desistir de uma compra que fiz?,Até 7 dias corridos depois do recebimento do produto,"DOC-01, seção 1 (mesma fonte do CT01)"
