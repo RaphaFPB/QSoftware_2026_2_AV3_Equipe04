@@ -1,2 +1,5 @@
 # Chave de anonimizacao: publicar somente depois de R1 e R2 terminarem
 avaliacao/chave-anonimizacao.csv
+
+# Cache do Python
+__pycache__/

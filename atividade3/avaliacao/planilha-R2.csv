@@ -1,0 +1,7 @@
+id_anonimo,pergunta,referencia,resposta,correcao,relevancia,suporte,falha_critica,aprovada,justificativa,evidencia_textual
+S02,Qual é o prazo para desistir da compra?,Até 7 dias corridos depois do recebimento do produto,"O prazo para desistir da compra (direito de arrependimento) é de até 7 (sete) dias corridos a contar da data de recebimento do produto, sem a necessidade de apresentar justificativa [1].",,,,,,,
+S03,Qual é o telefone da central de atendimento?,Os documentos não informam o telefone da central de atendimento,Não encontrei essa informação nos documentos.,,,,,,,
+S06,Qual é o prazo para desistir da compra?,Até 7 dias corridos depois do recebimento do produto,"O prazo para desistir da compra é de até 7 (sete) dias corridos a contar do recebimento do produto, sem necessidade de justificativa [1].
+
+Fonte: DOC-01-politica-reembolso-v2.md (Versão 2.0, vigente desde 01/03/2026) [1].",,,,,,,
+S10,Qual é o telefone da central de atendimento?,Os documentos não informam o telefone da central de atendimento,Os documentos disponíveis não mencionam um número de telefone para a central de atendimento. O canal de suporte informado é exclusivamente por e-mail: suporte@cereja-ficticia.example [1][2].,,,,,,,
