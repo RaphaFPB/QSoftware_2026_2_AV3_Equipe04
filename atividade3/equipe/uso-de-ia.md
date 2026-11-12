@@ -4,7 +4,7 @@ Cada integrante preenche só a sua declaração: a ferramenta e o modelo, a fina
 
 | Integrante | IA generativa | Finalidade | Prompt utilizado | Saída (resumo) | Aproveitado, corrigido ou rejeitado, e verificação |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Adam Guilherme Mendes Lima | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| Adam Guilherme Mendes Lima | Antigravity (Gemini 3.8 Flash) | Auditoria de consistência dos artefatos, validação dos cálculos do GQM e estruturação do relatório técnico objetivo em PDF. | "Revise a conformidade do repositório com o plano GQM e auxilie na consolidação dos resultados, decisão experimental e formatação do relatório PDF objetivo." | Diagnóstico de conformidade dos artefatos, conferência das taxas de aprovação humana e F1, e estrutura para o relatório técnico integrado. | Aproveitado: a estrutura do relatório e a organização do checklist de entrega foram adotadas. Verificações: todos os números, notas e métricas foram conferidos manualmente contra `tabela-consolidada.csv`, `r1.csv` e `r2.csv`. Supervisão humana integral mantida na decisão experimental. |
 | Enzo Emanuel Costa Maia | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
 | Douglas de Oliveira Déda | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
 | Rafael Souza Prata | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |

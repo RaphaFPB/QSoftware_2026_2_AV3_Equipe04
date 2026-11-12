@@ -29,4 +29,4 @@ Checklist dos artefatos e ordem de trabalho. Marcar um item só quando o arquivo
 - [ ] Relatório técnico em PDF
 - [ ] Slides
 - [ ] Vídeo, com a URL no `README.md` da raiz, no relatório e em `VIDEO.md`, e o link enviado no Classroom
-- [ ] Conferência de segurança: nenhuma chave de API, credencial ou dado sigiloso publicado
+- [x] Conferência de segurança: nenhuma chave de API, credencial ou dado sigiloso publicado
