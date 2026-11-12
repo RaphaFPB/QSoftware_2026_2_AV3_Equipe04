@@ -13,5 +13,5 @@ Registro curto da configuração da versão A (baseline) e dos limites de reprod
 | Casos e referências | [`../../casos.md`](../../casos.md) |
 | Rubrica e limiar | [`../../plano-gqm.md`](../../plano-gqm.md) e [`../../rubrica.md`](../../rubrica.md). `tau = 0,5` |
 | Data das execuções | 11/11/2026, a partir de 18h06 (ver [`../../execucao/README.md`](../../execucao/README.md)) |
-| Resultados | [PREENCHER depois das avaliações: aprovação humana x/6 e F1 médio] |
+| Resultados | Aprovação humana 3/6, uma falha crítica (CT02), F1 médio 0,249 e 1/6 sinais automáticos positivos. Ver [`../../resultados/`](../../resultados/). |
 | Limitações de reprodução | O alias `latest` pode mudar. Há uma execução por caso e versão. O modelo decide se consulta a base, e em algumas execuções não consultou (ver `execucao/README.md`). A base é reindexada ao ser recriada, o que pode mudar os trechos recuperados. Parte das respostas foi transcrita das capturas. |

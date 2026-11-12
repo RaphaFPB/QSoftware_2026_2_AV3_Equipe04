@@ -26,4 +26,4 @@ Limitações do cegamento: o estilo das respostas denuncia a versão, porque as 
 
 ## Resultados
 
-[PREENCHER: saídas aprovadas por R1 (x/12, e x/6 em cada versão), dificuldades ao aplicar a rubrica e concordância R1 e R2.]
+R1 aprovou 9 de 12 saídas, 3/6 em A e 6/6 em B. A única falha crítica foi em A-CT02, que apresentou prazos de reembolso diferentes dos 10 dias úteis da política. A concordância entre R1 e R2 nas quatro saídas revisadas foi 4/4, antes de qualquer conversa. Nas outras oito saídas, a nota de R1 é a decisão final.

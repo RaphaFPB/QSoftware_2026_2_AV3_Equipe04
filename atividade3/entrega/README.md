@@ -18,13 +18,13 @@ Checklist dos artefatos e ordem de trabalho. Marcar um item só quando o arquivo
 - [x] Rubrica: `rubrica.md`
 - [x] Versões A e B com prompt e manifesto: `versoes/`
 - [x] Tags `av3-a` e `av3-b` publicadas no repositório remoto
-- [ ] 12 saídas brutas e capturas: `execucao/`
-- [ ] F1 das 12 saídas: `resultados/f1-lexical.csv`
-- [ ] 12 anotações de R1 e 4 de R2, com consenso quando preciso: `avaliacao/`
-- [ ] Tabela consolidada e gráfico: `resultados/`
-- [ ] Uma divergência ou caso-limite analisado: `resultados/divergencia.md`
-- [ ] Manifestos A e B completos e diagrama do fluxo: `versoes/` e `ciclo-de-vida/`
-- [ ] Decisão experimental e limitações: `decisao/decisao.md`
+- [x] 12 saídas brutas e capturas: `execucao/`
+- [x] F1 das 12 saídas: `resultados/f1-lexical.csv`
+- [x] 12 anotações de R1 e 4 de R2, com consenso quando preciso: `avaliacao/`
+- [x] Tabela consolidada e gráfico: `resultados/`
+- [x] Uma divergência ou caso-limite analisado: `resultados/divergencia.md`
+- [x] Manifestos A e B completos e diagrama do fluxo: `versoes/` e `ciclo-de-vida/`
+- [x] Decisão experimental e limitações: `decisao/decisao.md`
 - [ ] Contribuições e declarações de uso de IA de todos: `equipe/`
 - [ ] Relatório técnico em PDF
 - [ ] Slides

@@ -12,20 +12,25 @@ Conclusão descritiva sobre as versões A e B, a partir dos resultados em [`../r
 
 | Campo | Valor |
 | :--- | :--- |
-| Aprovação humana de A (x/6) | [PREENCHER] |
-| Aprovação humana de B (x/6) | [PREENCHER] |
-| Falhas críticas em B | [PREENCHER] |
-| Critério de avanço atendido? | [PREENCHER] |
-| Condição de bloqueio acionada? | [PREENCHER] |
+| Aprovação humana de A (x/6) | 3/6 |
+| Aprovação humana de B (x/6) | 6/6 |
+| Falhas críticas em B | 0 |
+| Critério de avanço atendido? | Sim, 6/6 é maior que 3/6 e B não tem falha crítica |
+| Condição de bloqueio acionada? | Não |
 
 ## Decisão
 
-[PREENCHER: manter A, levar B para a próxima etapa ou revisar B, com a justificativa. A decisão é experimental, não autoriza produção, e seis casos não demonstram risco zero.]
+**Levar B para a próxima etapa.** Pela regra fixada antes do teste, B avança, porque a aprovação humana de B (6/6) foi maior que a de A (3/6) e B não teve falha crítica. A melhora apareceu na avaliação humana, e não na métrica automática, que quase não mudou (F1 médio de 0,249 em A e 0,300 em B). A decisão é experimental e não autoriza uso em produção. Seis casos com uma execução cada não demonstram risco zero. A próxima etapa seria repetir o teste com mais casos e mais de uma execução por caso.
 
 ## Limitações
 
-[PREENCHER: limitações do experimento, sem repetir uma a uma as de cada pasta.]
+- Só seis casos, com uma execução por caso e versão, e o CT06 depende do CT01.
+- O modelo usa o alias `latest`, que não congela a revisão, e decide sozinho se consulta a base. Em quatro execuções ele não consultou, três delas em A.
+- R1 decide sozinho oito das 12 saídas, e R2 revisou só CT01 e CT05.
+- O cegamento foi parcial. As respostas de B terminam com "Fonte:" e as saídas brutas no repositório têm a versão no nome.
+- O F1 com referências curtas penalizou respostas longas e paráfrases, e teve concordância de 4/12 com a decisão humana.
+- Parte dos textos foi transcrita de capturas de tela, e a primeira tentativa da versão A foi descartada por ter sido feita numa conversa única.
 
 ## Acompanhamento
 
-[PREENCHER: sinal a acompanhar depois e como voltar a A (ver `../ciclo-de-vida/ciclo-de-vida.md`).]
+Acompanhar, por versão, a aprovação humana (x/6), as falhas críticas e se a resposta consultou a base e citou a fonte. Qualquer falha crítica em B bloqueia B até revisão. Para voltar a A, restaurar o prompt da tag `av3-a` com o mesmo aplicativo, modelo e base, registrar a data e o motivo e rodar os seis casos de novo para conferir. Os detalhes estão em [`../ciclo-de-vida/ciclo-de-vida.md`](../ciclo-de-vida/ciclo-de-vida.md).
