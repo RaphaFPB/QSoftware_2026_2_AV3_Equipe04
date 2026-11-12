@@ -25,8 +25,8 @@ Checklist dos artefatos e ordem de trabalho. Marcar um item só quando o arquivo
 - [x] Uma divergência ou caso-limite analisado: `resultados/divergencia.md`
 - [x] Manifestos A e B completos e diagrama do fluxo: `versoes/` e `ciclo-de-vida/`
 - [x] Decisão experimental e limitações: `decisao/decisao.md`
-- [ ] Contribuições e declarações de uso de IA de todos: `equipe/`
-- [ ] Relatório técnico em PDF
-- [ ] Slides
-- [ ] Vídeo, com a URL no `README.md` da raiz, no relatório e em `VIDEO.md`, e o link enviado no Classroom
+- [x] Contribuições e declarações de uso de IA de todos: `equipe/`
+- [x] Relatório técnico em PDF
+- [x] Slides
+- [x] Vídeo, com a URL no `README.md` da raiz, no relatório e em `VIDEO.md`, e o link enviado no Classroom
 - [x] Conferência de segurança: nenhuma chave de API, credencial ou dado sigiloso publicado
