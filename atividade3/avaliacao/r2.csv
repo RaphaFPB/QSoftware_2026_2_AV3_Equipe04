@@ -1,1 +1,5 @@
 id_anonimo,correcao,relevancia,suporte,falha_critica,aprovada,justificativa,evidencia_textual
+S02,2,2,2,0,1,Tudo em linha com o documento,"""é de até 7 (sete) dias corridos a contar da data de recebimento do produto, sem a necessidade de apresentar justificativa [1]"""
+S03,2,2,2,0,1,Tudo em linha com o documento,"""Não encontrei essa informação nos documentos."""
+S06,2,2,2,0,1,Tudo em linha com o documento,"""é de até 7 (sete) dias corridos a contar do recebimento do produto, sem necessidade de justificativa [1]"" e ""Fonte: DOC-01-politica-reembolso-v2.md (Versão 2.0, vigente desde 01/03/2026)"""
+S10,2,2,2,0,1,Tudo em linha com o documento,"""Os documentos disponíveis não mencionam um número de telefone para a central de atendimento"" e ""O canal de suporte informado é exclusivamente por e-mail: suporte@cereja-ficticia.example [1][2]"""
