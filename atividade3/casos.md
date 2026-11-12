@@ -21,4 +21,4 @@
 
 - **CT06 não é um caso independente.** Ele varia a pergunta do CT01 (paráfrase) e usa a mesma referência.
 - **CT05** descreve a abstenção esperada: a informação não consta nos documentos. A resposta correta não inventa um telefone.
-- As referências foram escritas por pessoas a partir dos documentos. Nenhuma resposta de IA foi usada como referência.
+- As referências foram escritas por pessoas a partir dos documentos.
