@@ -10,7 +10,9 @@ A base de conhecimento usada (DOC-01, DOC-03 e DOC-04) está em [`base-de-conhec
 
 ## Vídeo da atividade
 
-O link será inserido aqui e em [`atividade3/entrega/VIDEO.md`](atividade3/entrega/VIDEO.md) quando o vídeo for publicado.
+O vídeo da equipe está na pasta do Drive: https://drive.google.com/drive/folders/17d27DUkUkHxOw6bI3KD9Ja1Xoqgy8VxD?usp=drive_link
+
+O mesmo link está em [`atividade3/entrega/VIDEO.md`](atividade3/entrega/VIDEO.md).
 
 ## Integrantes
 
