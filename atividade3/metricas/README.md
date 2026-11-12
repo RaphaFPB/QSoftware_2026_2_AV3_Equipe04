@@ -37,7 +37,7 @@ Normalização Unicode NFC, `casefold`, tokens de palavras (`\w+`) e interseçã
 
 ## Origem do script
 
-`f1_lexical.py` implementa o F1 lexical descrito no enunciado da atividade (NFC, `casefold`, tokens de palavras e interseção de multiconjuntos). [CONFERIR: se o arquivo é o do kit fornecido pelo professor, citar a origem aqui.]
+`f1_lexical.py` implementa o F1 lexical descrito no enunciado da atividade (NFC, `casefold`, tokens de palavras e interseção de multiconjuntos).
 
 ## Resultados
 

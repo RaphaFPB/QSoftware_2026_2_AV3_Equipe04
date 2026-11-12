@@ -4,7 +4,7 @@
 | :--- | :--- |
 | Caso | CT03 |
 | Versão | B |
-| Data e horário exibido | [PREENCHER: horário não aparece na captura] |
+| Data e horário exibido | não exibido na captura |
 | Captura | `capturas/B-CT03.png` |
 | Observações | Transcrita da captura de tela (o negrito não foi preservado). Caso identificado pelo conteúdo, porque a captura mostra só o início da mensagem enviada. "Processed" (8 s), 1 citação, cerca de 30,6 mil tokens. |
 

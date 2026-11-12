@@ -4,6 +4,10 @@ Cadeia de mudança, execução, avaliação, decisão e acompanhamento do fluxo,
 
 ## Diagrama
 
+![Diagrama do fluxo](diagrama-fluxo.png)
+
+O mesmo fluxo em Mermaid, que o GitHub desenha na própria página:
+
 ```mermaid
 flowchart LR
     O[Objetivo e plano GQM registrados antes do teste] --> A[Versão A: baseline, tag av3-a]
