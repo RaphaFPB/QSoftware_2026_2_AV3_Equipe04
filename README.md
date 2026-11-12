@@ -15,7 +15,7 @@ O link será inserido aqui e em [`atividade3/entrega/VIDEO.md`](atividade3/entre
 ## Integrantes
 
 - Adam Lima
-- Enzo Emanuel Maia Costa
+- Enzo Emanuel Costa Maia
 - Douglas D-da
 - Rafael Prata
 - Raphael Portella

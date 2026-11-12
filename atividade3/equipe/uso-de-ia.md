@@ -5,7 +5,7 @@ Cada integrante preenche só a sua declaração: a ferramenta e o modelo, a fina
 | Integrante | IA generativa | Finalidade | Prompt utilizado | Saída (resumo) | Aproveitado, corrigido ou rejeitado, e verificação |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Adam Guilherme Mendes Lima | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Enzo Emanuel Maia Costa | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| Enzo Emanuel Costa Maia | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
 | Douglas de Oliveira Déda | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
 | Rafael Souza Prata | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
 | Raphael Ferreira Portella Bacelar | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |

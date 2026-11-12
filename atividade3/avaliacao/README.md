@@ -5,7 +5,7 @@ Anotações das duas pessoas avaliadoras. A rubrica e o procedimento estão em [
 ## Quem avalia
 
 - **R1 (Thayla Almeida Figueiredo):** avalia as 12 saídas.
-- **R2 (Enzo Emanuel Maia Costa):** avalia de forma independente as quatro saídas de CT01 e CT05 nas duas versões, antes de conversar com R1.
+- **R2 (Enzo Emanuel Costa Maia):** avalia de forma independente as quatro saídas de CT01 e CT05 nas duas versões, antes de conversar com R1.
 
 ## Arquivos
 
