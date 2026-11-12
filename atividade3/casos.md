@@ -3,7 +3,6 @@
 > **Situação:** casos e referências fixados antes das 12 execuções. Depois do commit deste arquivo, ninguém altera as perguntas nem as referências.
 
 **Autor das referências:** Raphael Ferreira Portella Bacelar.
-**Revisão das referências:** Enzo Emanuel Maia Costa, que conferiu as seis frases contra os trechos dos documentos.
 
 **Base usada:** `DOC-01` (política de reembolso v2.0), `DOC-03` (FAQ de entrega) e `DOC-04` (manual de garantia). Os documentos estão em [`../base-de-conhecimento/`](../base-de-conhecimento/).
 
