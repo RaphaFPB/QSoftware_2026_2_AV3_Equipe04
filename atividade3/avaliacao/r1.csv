@@ -1,1 +1,13 @@
 id_anonimo,correcao,relevancia,suporte,falha_critica,aprovada,justificativa,evidencia_textual
+S01,2,2,2,0,1,Informa corretamente os 12 meses de garantia e sua composição.,"DOC-04, Garantia legal e contratual: 90 dias + 9 meses."
+S02,2,2,2,0,1,"Informa os 7 dias corridos após o recebimento, sem exigência de justificativa.","DOC-01, seção 1: 7 dias corridos após o recebimento."
+S03,2,2,2,0,1,"Reconhece que o telefone não consta nos documentos, sem inventar contato.","DOC-01, seção 6, e DOC-04, Como acionar: somente e-mail."
+S04,2,2,2,0,1,Identifica corretamente a Cereja Eletro como responsável pelo frete.,"DOC-01, seção 4: frete por arrependimento ou defeito pago pela Cereja Eletro."
+S05,2,2,2,0,1,"Acerta os 12 meses de garantia, incluindo os períodos legal e contratual.","DOC-04, Garantia legal e contratual: 90 dias + 9 meses."
+S06,2,2,2,0,1,Apresenta corretamente o prazo e o início da contagem.,"DOC-01, seção 1: 7 dias corridos a partir do recebimento."
+S07,0,1,0,1,0,Não informa os 10 dias úteis da política e apresenta prazos diferentes.,"DOC-01, seção 2: até 10 dias úteis; resposta: 1 a 7 dias úteis ou 1 a 2 faturas."
+S08,2,2,2,0,1,Informa o prazo correto e a devolução na mesma forma de pagamento.,"DOC-01, seção 2: até 10 dias úteis, na mesma forma de pagamento."
+S09,1,1,1,0,0,"Indica que a loja paga em alguns casos, mas não cita a Cereja Eletro e inclui regras alheias à política.","DOC-01, seção 4: Cereja Eletro paga o frete por arrependimento ou defeito."
+S10,2,2,2,0,1,Reconhece a ausência de telefone e informa o e-mail previsto na base.,"DOC-01, seção 6, e DOC-04, Como acionar: suporte@cereja-ficticia.example."
+S11,1,1,1,0,0,"Menciona os 7 dias, mas responde com regras gerais do CDC, sem focar na política da empresa.","DOC-01, seção 1: desistência em até 7 dias corridos após o recebimento."
+S12,2,2,2,0,1,"Informa corretamente o prazo, o marco inicial e a política vigente.","DOC-01, versão 2.0, seção 1: 7 dias corridos após o recebimento."

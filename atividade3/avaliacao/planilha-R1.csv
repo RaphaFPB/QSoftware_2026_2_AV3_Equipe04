@@ -1,26 +1,25 @@
-
 id_anonimo,pergunta,referencia,resposta,correcao,relevancia,suporte,falha_critica,aprovada,justificativa,evidencia_textual
 S01,Quanto tempo de garantia total têm os eletrodomésticos de linha branca?,Os eletrodomésticos de linha branca têm 12 meses de garantia,"Os eletrodomésticos de linha branca possuem 12 meses de garantia total, somando 90 dias de garantia legal e mais 9 meses de garantia contratual [1].
 
-Fonte: DOC-04-manual-garantia.md (Versão 1.2 — vigente desde 01/03/2026).",2,2,2,0,1,Informa corretamente os 12 meses de garantia e sua composição.,"DOC-04, Garantia legal e contratual: 90 dias + 9 meses."
-S02,Qual é o prazo para desistir da compra?,Até 7 dias corridos depois do recebimento do produto,"O prazo para desistir da compra (direito de arrependimento) é de até 7 (sete) dias corridos a contar da data de recebimento do produto, sem a necessidade de apresentar justificativa [1].",2,2,2,0,1,"Informa os 7 dias corridos após o recebimento, sem exigência de justificativa.","DOC-01, seção 1: 7 dias corridos após o recebimento."
-S03,Qual é o telefone da central de atendimento?,Os documentos não informam o telefone da central de atendimento,Não encontrei essa informação nos documentos.,2,2,2,0,1,"Reconhece que o telefone não consta nos documentos, sem inventar contato.","DOC-01, seção 6, e DOC-04, Como acionar: somente e-mail."
+Fonte: DOC-04-manual-garantia.md (Versão 1.2 — vigente desde 01/03/2026).",,,,,,,
+S02,Qual é o prazo para desistir da compra?,Até 7 dias corridos depois do recebimento do produto,"O prazo para desistir da compra (direito de arrependimento) é de até 7 (sete) dias corridos a contar da data de recebimento do produto, sem a necessidade de apresentar justificativa [1].",,,,,,,
+S03,Qual é o telefone da central de atendimento?,Os documentos não informam o telefone da central de atendimento,Não encontrei essa informação nos documentos.,,,,,,,
 S04,Quem paga o frete da devolução?,O responsável pelo pagamento do frete da devolução é a Cereja Eletro,"O frete da devolução (por arrependimento ou defeito) é pago pela empresa Cereja Eletro [1].
 
-Fonte: `DOC-01-politica-reembolso-v2.md` (Política de Reembolso e Devolução, Versão 2.0, vigente desde 01/03/2026).",2,2,2,0,1,Identifica corretamente a Cereja Eletro como responsável pelo frete.,"DOC-01, seção 4: frete por arrependimento ou defeito pago pela Cereja Eletro."
-S05,Quanto tempo de garantia total têm os eletrodomésticos de linha branca?,Os eletrodomésticos de linha branca têm 12 meses de garantia,"Os eletrodomésticos de linha branca têm garantia total de 12 meses, que é a soma de 90 dias de garantia legal com mais 9 meses de garantia contratual [1].",2,2,2,0,1,"Acerta os 12 meses de garantia, incluindo os períodos legal e contratual.","DOC-04, Garantia legal e contratual: 90 dias + 9 meses."
+Fonte: `DOC-01-politica-reembolso-v2.md` (Política de Reembolso e Devolução, Versão 2.0, vigente desde 01/03/2026).",,,,,,,
+S05,Quanto tempo de garantia total têm os eletrodomésticos de linha branca?,Os eletrodomésticos de linha branca têm 12 meses de garantia,"Os eletrodomésticos de linha branca têm garantia total de 12 meses, que é a soma de 90 dias de garantia legal com mais 9 meses de garantia contratual [1].",,,,,,,
 S06,Qual é o prazo para desistir da compra?,Até 7 dias corridos depois do recebimento do produto,"O prazo para desistir da compra é de até 7 (sete) dias corridos a contar do recebimento do produto, sem necessidade de justificativa [1].
 
-Fonte: DOC-01-politica-reembolso-v2.md (Versão 2.0, vigente desde 01/03/2026) [1].",2,2,2,0,1,Apresenta corretamente o prazo e o início da contagem.,"DOC-01, seção 1: 7 dias corridos a partir do recebimento."
+Fonte: DOC-01-politica-reembolso-v2.md (Versão 2.0, vigente desde 01/03/2026) [1].",,,,,,,
 S07,Em quanto tempo o reembolso é feito depois que a devolução é aprovada?,O tempo para reembolso é de até 10 dias úteis,"O prazo para o reembolso ser efetuado após a aprovação da devolução varia de acordo com a forma de pagamento utilizada na compra. Veja os prazos mais comuns:
 
 - Cartão de Crédito: O estorno é solicitado imediatamente após a aprovação, mas o valor pode ser creditado em até 1 a 2 faturas subsequentes, dependendo da data de fechamento da sua fatura e dos procedimentos da administradora do cartão.
 - Pix / Boleto Bancário / Carteira Digital: O reembolso geralmente é feito em conta corrente ou PIX em um prazo que costuma variar de 1 a 7 dias úteis após a conclusão da análise/aprovação.
 
-Nota: Como cada loja, marketplace ou plataforma possui políticas próprias, vale a pena conferir os termos de troca e devolução específicos do site ou aplicativo onde você realizou a compra para ter a confirmação exata do prazo.",0,1,0,1,0,Não informa os 10 dias úteis da política e apresenta prazos diferentes.,"DOC-01, seção 2: até 10 dias úteis; resposta: 1 a 7 dias úteis ou 1 a 2 faturas."
+Nota: Como cada loja, marketplace ou plataforma possui políticas próprias, vale a pena conferir os termos de troca e devolução específicos do site ou aplicativo onde você realizou a compra para ter a confirmação exata do prazo.",,,,,,,
 S08,Em quanto tempo o reembolso é feito depois que a devolução é aprovada?,O tempo para reembolso é de até 10 dias úteis,"Depois que a devolução é aprovada, o valor é reembolsado em até 10 (dez) dias úteis, na mesma forma de pagamento usada na compra [1].
 
-Fonte: `DOC-01-politica-reembolso-v2.md` (Versão 2.0, vigente desde 01/03/2026) [1].",2,2,2,0,1,Informa o prazo correto e a devolução na mesma forma de pagamento.,"DOC-01, seção 2: até 10 dias úteis, na mesma forma de pagamento."
+Fonte: `DOC-01-politica-reembolso-v2.md` (Versão 2.0, vigente desde 01/03/2026) [1].",,,,,,,
 S09,Quem paga o frete da devolução?,O responsável pelo pagamento do frete da devolução é a Cereja Eletro,"A responsabilidade pelo pagamento do frete da devolução depende do motivo da devolução e do tipo de compra (loja física, internet, defeito ou arrependimento), conforme estabelecido pelo Código de Defesa do Consumidor (CDC) no Brasil:
 1. Arrependimento ou Desistência (Compras pela Internet)
 Se você comprou um produto pela internet, telefone ou catálogo e se arrependeu no prazo de até 7 dias corridos após o recebimento (o chamado ""direito de arrependimento""):
@@ -43,8 +42,8 @@ Se você comprou um produto em uma loja física (onde é possível ver e testar 
 * Quem paga: Por lei, lojas físicas não são obrigadas a realizar trocas por motivo de cor, tamanho ou gosto (a não ser que tenham prometido isso no ato da compra). Se a loja aceitar trocar por gentileza, as regras de frete ou deslocamento ficam a critério do estabelecimento.
 
 Resumo prático para compras online (que é a dúvida mais comum):
-Seja por arrependimento (dentro dos 7 dias) ou por defeito, o frete da devolução é sempre por conta da loja.",1,1,1,0,0,"Indica que a loja paga em alguns casos, mas não cita a Cereja Eletro e inclui regras alheias à política.","DOC-01, seção 4: Cereja Eletro paga o frete por arrependimento ou defeito."
-S10,Qual é o telefone da central de atendimento?,Os documentos não informam o telefone da central de atendimento,Os documentos disponíveis não mencionam um número de telefone para a central de atendimento. O canal de suporte informado é exclusivamente por e-mail: suporte@cereja-ficticia.example [1][2].,2,2,2,0,1,Reconhece a ausência de telefone e informa o e-mail previsto na base.,"DOC-01, seção 6, e DOC-04, Como acionar: suporte@cereja-ficticia.example."
+Seja por arrependimento (dentro dos 7 dias) ou por defeito, o frete da devolução é sempre por conta da loja.",,,,,,,
+S10,Qual é o telefone da central de atendimento?,Os documentos não informam o telefone da central de atendimento,Os documentos disponíveis não mencionam um número de telefone para a central de atendimento. O canal de suporte informado é exclusivamente por e-mail: suporte@cereja-ficticia.example [1][2].,,,,,,,
 S11,Até quando posso desistir de uma compra que fiz?,Até 7 dias corridos depois do recebimento do produto,"A possibilidade e o prazo para desistir de uma compra dependem de onde a compra foi realizada (se foi na internet/telefone ou em uma loja física).
 Aqui estão as regras do Código de Defesa do Consumidor (CDC) no Brasil:
 1. Compras fora de loja física (Internet, Telefone, Catálogo ou Domicílio)
@@ -61,9 +60,9 @@ O que fazer em caso de defeito?
 Se o produto comprado (seja na internet ou em loja física) apresentar defeito:
 
 * Produtos não duráveis (como alimentos): o prazo para reclamação é de 30 dias.
-* Produtos duráveis (como eletrônicos, eletrodomésticos, roupas): o prazo para reclamação é de 90 dias.",1,1,1,0,0,"Menciona os 7 dias, mas responde com regras gerais do CDC, sem focar na política da empresa.","DOC-01, seção 1: desistência em até 7 dias corridos após o recebimento."
+* Produtos duráveis (como eletrônicos, eletrodomésticos, roupas): o prazo para reclamação é de 90 dias.",,,,,,,
 S12,Até quando posso desistir de uma compra que fiz?,Até 7 dias corridos depois do recebimento do produto,"Você pode desistir de uma compra em até 7 (sete) dias corridos a partir do recebimento do produto, sem precisar justificar [1]. Esta regra consta na Política de Reembolso e Devolução (Versão 2.0, vigente desde 01/03/2026) [1]; os documentos recuperados não apresentam versões anteriores divergentes.
 
 Fontes:
 
-- `DOC-01-politica-reembolso-v2.md` [1]",2,2,2,0,1,"Informa corretamente o prazo, o marco inicial e a política vigente.","DOC-01, versão 2.0, seção 1: 7 dias corridos após o recebimento."
+- `DOC-01-politica-reembolso-v2.md` [1]",,,,,,,
