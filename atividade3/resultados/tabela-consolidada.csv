@@ -1,0 +1,13 @@
+caso,versao,id_anonimo,F1,sinal_auto,R1_correcao,R1_relevancia,R1_suporte,R1_falha_critica,R1_aprovada,R2_correcao,R2_relevancia,R2_suporte,R2_falha_critica,R2_aprovada,origem_decisao,falha_critica_final,decisao_humana_final,justificativa,auto_concorda_humano
+CT01,A,S02,0.350000,0,2,2,2,0,1,2,2,2,0,1,R1 e R2 concordam,0,1,"Informa os 7 dias corridos após o recebimento, sem exigência de justificativa.",0
+CT02,A,S07,0.108844,0,0,1,0,1,0,,,,,,R1 (sem R2),1,0,Não informa os 10 dias úteis da política e apresenta prazos diferentes.,1
+CT03,A,S05,0.512821,1,2,2,2,0,1,,,,,,R1 (sem R2),0,1,"Acerta os 12 meses de garantia, incluindo os períodos legal e contratual.",1
+CT04,A,S09,0.062500,0,1,1,1,0,0,,,,,,R1 (sem R2),0,0,"Indica que a loja paga em alguns casos, mas não cita a Cereja Eletro e inclui regras alheias à política.",1
+CT05,A,S10,0.400000,0,2,2,2,0,1,2,2,2,0,1,R1 e R2 concordam,0,1,Reconhece a ausência de telefone e informa o e-mail previsto na base.,0
+CT06,A,S11,0.060606,0,1,1,1,0,0,,,,,,R1 (sem R2),0,0,"Menciona os 7 dias, mas responde com regras gerais do CDC, sem focar na política da empresa.",1
+CT01,B,S06,0.326531,0,2,2,2,0,1,2,2,2,0,1,R1 e R2 concordam,0,1,Apresenta corretamente o prazo e o início da contagem.,0
+CT02,B,S08,0.313725,0,2,2,2,0,1,,,,,,R1 (sem R2),0,1,Informa o prazo correto e a devolução na mesma forma de pagamento.,0
+CT03,B,S01,0.367347,0,2,2,2,0,1,,,,,,R1 (sem R2),0,1,Informa corretamente os 12 meses de garantia e sua composição.,0
+CT04,B,S04,0.297872,0,2,2,2,0,1,,,,,,R1 (sem R2),0,1,Identifica corretamente a Cereja Eletro como responsável pelo frete.,0
+CT05,B,S03,0.250000,0,2,2,2,0,1,2,2,2,0,1,R1 e R2 concordam,0,1,"Reconhece que o telefone não consta nos documentos, sem inventar contato.",0
+CT06,B,S12,0.246154,0,2,2,2,0,1,,,,,,R1 (sem R2),0,1,"Informa corretamente o prazo, o marco inicial e a política vigente.",0
